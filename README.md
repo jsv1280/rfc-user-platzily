@@ -4,7 +4,7 @@
 
 ## Summary
 
->  Architecture design about the new user Service that will be release soon for the new development of Platzily
+>  Joya Architecture design about the new user Service that will be release soon for the new development of Platzily
 
 
 ## Motivation
